@@ -10,12 +10,6 @@ import java.util.Optional;
 import java.util.zip.ZipFile;
 
 public class Main {
-    /*
-        TODO
-            Любой spring проект с контроллерами сервисами и БД
-
-     */
-
     public static void main(String[] args) {
         long time = System.currentTimeMillis();
         String fileName = "downloads/zipFile.zip";      //путь до файла
